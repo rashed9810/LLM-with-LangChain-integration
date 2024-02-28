@@ -6,7 +6,6 @@ This guide will walk you through setting up the Python and Pipenv environment re
 
 **Before you begin:**
 
-- Pause the lecture at the 2:40 timestamp and come back to this guide to perform the setup.
 - Deprecation warnings about Langchain versions 0.1.0 and 0.2.0 can be safely ignored.
 
 **Prerequisites:**
